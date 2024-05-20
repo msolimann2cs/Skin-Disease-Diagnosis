@@ -71,7 +71,7 @@ We utilized the mobilenet architecture to create both our models. Trained on the
 
  -  'server':  This folder includes the code the server module that needs to be running for the application.
    
- -  'chatbot':  This folder includes the code the chatbot module.
+ -  'Clara-Chatbot':  This folder includes the code the chatbot module.
 
  -  'application':  This folder includes the code the flutter application.
 
