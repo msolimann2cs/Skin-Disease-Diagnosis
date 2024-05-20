@@ -1,0 +1,428 @@
+ID,label,text
+0,Varicose Veins,"I have a rash on my legs that is causing a lot of discomforts. It seems there is a cramp and I can see prominent veins on the calf. Also, I have been feeling very tired and fatigued in the past couple of days."
+1,Varicose Veins,"My calves have been cramping up when I walk or stand for long periods of time. There are bruise marks on my calves, which is making me worried. I feel tired very soon."
+2,Varicose Veins,"There is bruising on my legs that I cannot explain. I can see strange blood vessels below the skin. Also, I am slightly obese and I am really worried."
+3,Varicose Veins,I am overweight and have noticed that my legs are swollen and the blood vessels are visible. My legs have swollen and I can see a stream of swollen veins on my calves.
+4,Varicose Veins,"The veins on my calves have become very prominent and causing discomfort. I can't stand for long periods of time, as it causes pain in my legs, similar to cramps."
+5,Varicose Veins,The skin around the veins on my legs is red and inflamed. I believe I can see some of the swollen blood vessels. I am really worried about it.
+6,Varicose Veins,Standing or walking for long periods of time causes a lot of pain in my legs. I get cramps upon doing physical activities. There are bruise marks on my legs too.
+7,Varicose Veins,The cramps in my calves are making it difficult for me to walk. I feel fatigued after working for some time. I believe obesity is the reason behind this.
+8,Varicose Veins,"The swelling in my legs has gotten worse over the past few weeks. Now, a large number of veins are noticeable on my calves, which is making me worried."
+9,Varicose Veins,The veins on my legs are very noticeable and cause me discomfort. It seems like there is a major bruise and I get cramps when I run.
+10,Varicose Veins,The skin on my calves has become inflamed and red. My legs hurt if I try to run or do any physical activities.
+11,Varicose Veins,"Recently, the pain in my calves has been constant and becomes worse when I stand or walk for long periods of time. My legs have started to swell and also some blood vessels are quite noticeable."
+12,Varicose Veins,The veins in my legs are causing discomfort and difficulty sleeping at night. I have no idea why it is happening. I get cramps when I sprint.
+13,Varicose Veins,The swelling in my legs is causing me to have difficulty fitting into my shoes. I can't sprint or stand for long periods of time. I can see some swollen blood vessels.
+14,Varicose Veins,I have noticed cramps in my calves are becoming more frequent and intense. It is causing me a lot of discomforts. I am also overweight and my legs have started to swell.
+15,Varicose Veins,The veins on my legs cause a lot of discomforts when I sit for long periods of time.
+16,Varicose Veins,The rash on my legs is spreading and becoming more severe. It has become very difficult for me to run.
+17,Varicose Veins,My legs are causing a lot of discomforts when I exercise. I get frequent cramps and the blood vessels have become quite noticeable.
+18,Varicose Veins,The prominent blood vessels on my calves are causing self-consciousness and embarrassment. I believe the problem is because of my overweight.
+19,Varicose Veins,The skin around the veins on my legs is dry and flaky. It seems there is a major bruise and my legs have started to swell.
+20,Varicose Veins,I have been experiencing a rash on my legs that is causing a lot of irritation and discomfort. It is red and inflamed and appears to be spreading.
+21,Varicose Veins,"Recently, my calves have been cramping up frequently, especially when I am walking or standing for long periods of time. Also, the veins are very noticeable."
+22,Varicose Veins,I have noticed that there are bruises on my legs that I cannot explain. They are not painful but are concerning to me.
+23,Varicose Veins,"As I am overweight, I have noticed that my legs are swollen and the blood vessels are more visible than usual. The swelling seems to be getting worse over time."
+24,Varicose Veins,The veins on my calves are very prominent and are causing me a lot of discomforts. They are swollen and protrude from my skin.
+25,Varicose Veins,"The skin around the veins on my legs is red, inflamed, and itchy. It is causing a lot of discomforts and I am starting to get regular cramps."
+26,Varicose Veins,Standing or walking for long periods of time has been causing a lot of pain in my legs. It feels like a cramp and becomes worse the longer I am on my feet.
+27,Varicose Veins,The cramps in my calves have been making it difficult for me to walk and do my daily activities. They come on suddenly and last for several minutes.
+28,Varicose Veins,The swelling in my legs has gotten worse over the past few weeks and is causing me difficulty fitting into my shoes. It is also causing discomfort when I sit for long periods of time.
+29,Varicose Veins,"The veins on my legs are very noticeable and are causing me a lot of discomforts. They are swollen and protrude from my skin, making them visible through my clothing."
+30,Varicose Veins,"The skin on my calves is itchy and inflamed, causing a lot of discomfort and difficulty sleeping at night. The blood vessels have started to protrude out, which is concerning."
+31,Varicose Veins,The pain in my calves is constant and becomes worse when I stand or walk for long periods of time. I am getting constant cramps and can't run for longer periods of time.
+32,Varicose Veins,"The veins in my legs are causing discomfort and difficulty sleeping at night. They are swollen and protruding from my skin, making them noticeable and painful."
+33,Varicose Veins,The swelling in my legs is causing me to have difficulty fitting into my shoes and is causing discomfort when I sit for long periods of time.
+34,Varicose Veins,"The cramps in my calves are becoming more frequent and intense, making it difficult for me to walk and do my daily activities."
+35,Varicose Veins,"The veins on my legs are causing a lot of discomforts when I sit for long periods of time. They are swollen and protruding from my skin, making them painful and noticeable."
+36,Varicose Veins,"The rash on my legs is spreading and becoming more severe. It is red, inflamed, and itchy, causing a lot of discomfort and difficulty sleeping at night."
+37,Varicose Veins,"My legs have been causing a lot of discomforts when I exercise. They feel heavy and swollen, and the veins are prominent and painful. I feel fatigued all the time."
+38,Varicose Veins,"The prominent veins on my calves are causing self-consciousness and embarrassment. They are swollen and protrude from my skin, making them very noticeable."
+39,Varicose Veins,"The skin around the veins on my legs is dry and flaky, causing discomfort and irritation. I am also starting to get frequent cramps."
+40,Varicose Veins,"I have a rash on my legs that is giving me a lot of pain. There appears to be a cramp, and I can see visible veins on the calf."
+41,Varicose Veins,My veins of legs have become more visible and swollen than normal. They are visible through my skin and it hurts when I move.
+42,Varicose Veins,"Walking is tough for me because of cramps in my calves. Obesity, I believe, is the cause of this. After a while of working, I'm exhausted."
+43,Varicose Veins,The blood vessels on my legs are quite visible and give me a lot of pain. They're large and protrude from my skin. It is unusual and I am worried about it.
+44,Varicose Veins,"I have noticed that the blood vessels in my legs are getting more noticeable than usual. It is a little concerning to me. Moreover, I am experiencing cramps every day."
+45,Varicose Veins,My legs' swelling has become worse over the last couple of days. I can see the blood vessels protruding out of the skin. This is quite unusual.
+46,Varicose Veins,Long durations of standing or walking have caused severe discomfort in my legs. It's a burning ache that gets worse the longer I'm on my feet.
+47,Varicose Veins,"My legs' skin around the veins is unusual. There appears to be a large bruise. Nowadays, I get frequent cramps when I sprint or run."
+48,Varicose Veins,"I am experiencing too many cramps in the last couple of days. I think something is not right. I believe there is a small bruise on my calves, but I am not sure about it."
+49,Varicose Veins,"The veins in my calves are protruding out quite unusually. I am worried about it. Also, I am overweight and I believe this is the reason behind all of this."
+50,Acne,I've been having a really bad rash on my skin lately. It's full of pus-filled pimples and blackheads. My skin has also been scurring a lot.
+51,Acne,I've just developed a severe rash on my skin. It's clogged with pus-filled pimples and blackheads. My skin has also been quite sensitive.
+52,Acne,"My skin has been breaking out in a terrible rash lately. Blackheads and pus-filled pimples abound on it. Additionally, my skin has been scurring a lot."
+53,Acne,"I've recently been experiencing a severe skin rash. Blackheads and pimples packed with pus are everywhere. Additionally, my skin has been scurring a lot."
+54,Acne,I've been having a very unhealthy rash on my skin latterly. It's filled with pus-filled pimples and blackheads. My skin has additionally been scurring heaps.
+55,Acne,My skin has just acquired a nasty rash. It's full of pus-filled pimples and blackheads. My skin has been really sensitive as well.
+56,Acne,"A nasty rash has just appeared on my skin. Blackheads and pimples packed with pus are everywhere. Additionally, my skin has been extremely sensitive."
+57,Acne,"I recently experienced a severe skin rash. Blackheads and pimples filled with pus are clogging it. Additionally, my skin has been quite irritated."
+58,Acne,My skin has recently been severely rashy. Blackheads and pus-filled pimples have blocked it. My skin has been quite delicate as well.
+59,Acne,Lately I've been experiencing a skin rash with a lot of pus-filled pimples and blackheads. My skin has also been scurring a lot.
+60,Acne,"A skin rash with several pus-filled pimples and blackheads has been bothering me lately. Additionally, my skin has been scurring a lot."
+61,Acne,My skin has now developed a revolting rash. There are pus-filled pimples and blackheads everywhere. My skin has also been really sensitive.
+62,Acne,"My skin has developed a horrible rash. There are blackheads and pus-filled pimples everywhere. Furthermore, my skin has been exceedingly sensitive."
+63,Acne,"A nasty rash has just appeared on my skin. Blackheads and pimples packed with pus are everywhere. Additionally, my skin has been extremely sensitive."
+64,Acne,My skin has simply nonheritable a nasty rash. It's packed with pus-filled pimples and blackheads. My skin has been very sensitive moreover.
+65,Acne,"My skin has developed a terrible rash that is not inherited. It has a lot of blackheads and pus-filled pimples. Furthermore, my skin has been exceedingly sensitive."
+66,Acne,"Recently, I've been experiencing a lot of acne breakouts with pimples that contain pus. I've also been struggling with blackheads."
+67,Acne,I woke up this morning and found that I have a really nasty rash all over my skin. There are a ton of blackheads and pimples that are filled with pus. My skin has also been really scurrying.
+68,Acne,I've been noticing a really nasty rash on my skin lately. It's covered in blackheads and pimples that are packed with pus. My skin has also been really scurrying.
+69,Acne,I just developed a really nasty rash on my skin. There are tons of blackheads and pimples that are filled with pus. My skin has also been really scurrying.
+70,Acne,I've been dealing with a really nasty rash on my skin lately. It's covered in blackheads and pimples that are packed with pus. My skin has also been really scurrying.
+71,Acne,I woke up this morning to find a really nasty rash on my skin. There are a ton of blackheads and pimples that are filled with pus. My skin has also been really scurrying.
+72,Acne,I've been struggling with a really nasty rash on my skin lately. It's covered in blackheads and pimples that are packed with pus. My skin has also been really scurrying.
+73,Acne,I just developed a really nasty rash on my skin. There are tons of blackheads and pimples that are filled with pus. My skin has also been really scurrying.
+74,Acne,I've been dealing with a really nasty rash on my skin lately. It's covered in blackheads and pimples that are packed with pus. My skin has also been really scurrying.
+75,Acne,I've recently developed a terrible rash on my skin. It's riddled with blackheads and pus-filled pimples. My skin has also been scurrying everywhere.
+76,Acne,I recently had a horrible rash on my skin. There are several blackheads and pus-filled pimples. My skin has also been moving around a lot.
+77,Acne,"This morning when I woke up, I discovered that I have an extremely bad rash all over my body. There are several pus-filled pimples and blackheads all around. My skin has also been moving around a lot."
+78,Acne,I awoke this morning to see that I had a horrible rash all over my skin. There are several blackheads and pimples loaded with pus. My skin has also been scurrying about.
+79,Acne,I've just developed a skin rash with several pus-filled pimples and blackheads. My skin has also been quite sensitive.
+80,Acne,"A skin rash with several pus-filled pimples and blackheads has been bothering me lately. Additionally, my skin has been scurring a lot."
+81,Acne,"I woke up this morning to find that I have a terrible rash all over my body. Blackheads and pus-filled pimples are all over the place. Additionally, my skin has been changing a lot."
+82,Acne,"When I awoke this morning, I realised that I had a severe rash all over my body. There are many pus-filled pimples and blackheads all over the place. My skin has also been scurring a lot."
+83,Acne,I've recently developed a terrible rash on my skin. It's riddled with blackheads and pus-filled pimples. My skin has also been scurrying about.
+84,Acne,I awoke this morning to see a horrible rash on my skin. There are several blackheads and pimples loaded with pus. My skin has also been scurrying about.
+85,Acne,"This morning when I woke up, I discovered an extremely bad rash on my skin. There are several pus-filled pimples and blackheads all around. My skin has also been moving around a lot."
+86,Acne,I've recently been battling a pretty itchy rash on my skin. There are pus-filled pimples and blackheads all over it. My skin has also been scurring a lot.
+87,Acne,"This morning, I realized that I had a major rash all over my body. There are lots of pimples filled with pus and blackheads everywhere, and my skin has been scurrying a lot."
+88,Acne,"I woke up today to find that I had a major rash all over my body. There are lots of pimples filled with pus and blackheads everywhere, and my skin has been scurrying a lot."
+89,Acne,"I woke up this morning to find that I had a major rash all over my body. It's covered in pus-filled pimples and blackheads, and my skin has been scurrying a lot"
+90,Acne,"This morning, I saw a large rash all over my body. There are a lot of pus-filled pimples and blackheads all over my face, and my skin has been scurrying a lot."
+91,Acne,"I discovered that I had a significant rash all over my body this morning. Blackheads and pus-filled pimples are proliferating, and my skin has been scurrying a lot."
+92,Acne,"Yesterday, I noticed an enormous rash all over my skin. There are a lot of pus-filled pimples and blackheads all over my face, and my skin has been scurrying a lot."
+93,Acne,"I discovered a huge rash on my skin yesterday. My face is covered of blackheads and pus-filled pimples, and my skin has been crawling a lot."
+94,Acne,"My skin has a horrible rash that is absolutely nonheritable. Blackheads and pus-filled pimples abound on it. In addition, my skin has been quite sensitive."
+95,Acne,"My skin has merely developed an uninherited rash. It has a lot of pus-filled pimples and blackheads. Furthermore, my skin has been quite sensitive."
+96,Acne,"When I awoke this morning, I saw a severe rash across my skin. There are many pus-filled pimples and blackheads all over the place. My skin has also been shifting a lot."
+97,Acne,"When I woke up this morning, I saw a terrible rash on my skin. Blackheads and pus-filled pimples are all over the place. Additionally, my skin has been shifting a lot."
+98,Acne,"I've recently struggled with a really irritating skin rash. There are blackheads and pus-filled pimples all over it. Additionally, my skin has been scurring a lot."
+99,Acne,I've recently been dealing with an itching rash on my skin. It's covered in pus-filled pimples and blackheads. My skin has also been quite sensitive.
+100,Actinic keratoses,"My skin feels rough and bumpy, like sandpaper, especially in areas exposed to the sun."
+101,Actinic keratoses,"Sometimes, it gets itchy and irritated, and I can't resist scratching it."
+102,Actinic keratoses,There's this persistent patch that looks scaly and feels tender when touched.
+103,Actinic keratoses,"It's like a small, rough spot that just won't heal, no matter what I do."
+104,Actinic keratoses,I've noticed some of these patches have started to bleed or ooze if I accidentally scratch them too hard.
+105,Actinic keratoses,"When I press on them, they feel sore and tender, almost like a bruise."
+106,Actinic keratoses,"Some of these spots have a crusty surface that flakes off, revealing more rough skin underneath."
+107,Actinic keratoses,"It feels like there's something foreign on my skin, like a tiny pebble stuck to it."
+108,Actinic keratoses,"Occasionally, I feel a burning sensation, especially when I'm out in the sun for too long."
+109,Actinic keratoses,"Along with these patches, my skin seems more sensitive overall, and even mild pressure can cause discomfort."
+110,Actinic keratoses,"Sometimes, the affected area looks redder than usual, like it's inflamed or irritated."
+111,Actinic keratoses,I've noticed a few of these patches have started to thicken and become harder to the touch.
+112,Actinic keratoses,"It's like my skin is trying to form a callus in those areas, but it just ends up feeling rough and uneven."
+113,Actinic keratoses,"Occasionally, I develop small, raised bumps around these patches, almost like tiny blisters."
+114,Actinic keratoses,"Along with the rough patches, my skin seems dryer than usual, and it's prone to flaking and peeling."
+115,Actinic keratoses,"There's this constant sensation of something being off with my skin, like it's trying to tell me there's a problem."
+116,Actinic keratoses,"Sometimes, the affected area feels warmer than the rest of my skin, like it's inflamed or infected."
+117,Actinic keratoses,"I've noticed these patches tend to get worse after spending time in the sun, almost like they're reacting to the UV rays."
+118,Actinic keratoses,"Occasionally, I feel a tingling or stinging sensation in those areas, like there's something irritating my skin."
+119,Actinic keratoses,"Along with the rough patches, I've started to develop some discoloration, like brown or red spots, in those areas."
+120,Actinic keratoses,"The affected area feels like there's a persistent irritation, like a small thorn stuck in my skin."
+121,Actinic keratoses,"Sometimes, the patches develop a white, scaly coating that's hard to remove."
+122,Actinic keratoses,"It's like my skin is trying to form a protective layer over those spots, but it just ends up feeling rough and uneven."
+123,Actinic keratoses,"Occasionally, I notice tiny, black dots on the surface of these patches, almost like clogged pores."
+124,Actinic keratoses,"Along with the rough patches, I've started to notice some thin, red lines branching out from them, like spider veins."
+125,Actinic keratoses,"Sometimes, the patches feel smoother in the center but rougher around the edges, like they're spreading outwards."
+126,Actinic keratoses,"It's like my skin is trying to warn me that something's wrong, but I'm not sure what to do about it."
+127,Actinic keratoses,"Occasionally, the patches develop a yellowish crust that sticks to my skin and is hard to wash off."
+128,Actinic keratoses,"Along with the rough patches, I've noticed some swelling and puffiness in those areas, like they're retaining fluid."
+129,Actinic keratoses,"Sometimes, the affected area feels numb or tingly, like it's fallen asleep."
+130,Actinic keratoses,"It's like my skin is trying to tell me there's a problem, but I can't quite figure out what it is."
+131,Actinic keratoses,"Occasionally, the patches develop a foul odor, especially if they've been irritated or infected."
+132,Actinic keratoses,"Along with the rough patches, I've noticed some hair loss in those areas, like the skin is suffocating the hair follicles."
+133,Actinic keratoses,"Sometimes, the patches feel warmer than the rest of my skin, almost like there's inflammation brewing underneath."
+134,Actinic keratoses,My skin has rough patches.
+135,Actinic keratoses,"Occasionally, the patches develop a shiny, waxy appearance that's different from the surrounding skin."
+136,Actinic keratoses,"Along with the rough patches, I've noticed some pitting and indentations in those areas, like the skin is collapsing in on itself."
+137,Actinic keratoses,"Sometimes, the patches feel tight and stretched, like there's not enough room for my skin to breathe."
+138,Actinic keratoses,"It's like my skin is aging faster in those areas, developing wrinkles and fine lines around the patches."
+139,Actinic keratoses,"Occasionally, the patches feel softer and more pliable, almost like they're about to peel off on their own."
+140,akiec,"The affected area looks like a red, scaly patch that doesn't seem to heal."
+141,akiec,"Sometimes, it feels tender and sore to the touch, especially if I accidentally bump it."
+142,akiec,"It's like there's a persistent irritation on my skin, like a constant itch that I can't scratch away."
+143,akiec,"Occasionally, the patch develops a crusty surface that flakes off, leaving behind raw, exposed skin."
+144,akiec,"Along with the redness, I've noticed some discoloration in the affected area, like brown or black spots."
+145,akiec,"Sometimes, the patch feels warmer than the surrounding skin, like there's inflammation brewing underneath."
+146,akiec,"It's like my skin is trying to tell me there's a problem, but I'm not sure what to do about it."
+147,akiec,"Occasionally, the patch feels thicker and harder than the surrounding skin, almost like a callus."
+148,akiec,"Along with the red patch, I've noticed some swelling and puffiness in that area."
+149,akiec,"Sometimes, the patch feels rougher than the surrounding skin, almost like sandpaper."
+150,akiec,"It's like my skin is rebelling against me, forming this rough, scaly patch in protest."
+151,akiec,"Occasionally, the patch develops a shiny, waxy appearance that's different from the surrounding skin."
+152,akiec,"Along with the redness, I've noticed some tiny, raised bumps in the affected area."
+153,akiec,"Sometimes, the patch feels numb or tingly, like it's fallen asleep."
+154,akiec,"It's like my skin is aging faster in that area, developing wrinkles and fine lines around the patch."
+155,akiec,"Occasionally, the patch develops a foul odor, especially if it's been irritated or infected."
+156,akiec,"Along with the red patch, I've noticed some thin, red lines branching out from it, like spider veins."
+157,akiec,"Sometimes, the patch feels softer and more pliable, almost like it's about to peel off on its own."
+158,akiec,"It's like my skin is trying to form a protective barrier over the affected area, but it just ends up feeling rough and uneven."
+159,akiec,"Occasionally, the patch develops a yellowish crust that sticks to my skin and is hard to wash off."
+160,akiec,The affected area feels like there's a persistent itch that I can't seem to scratch away.
+161,akiec,"Sometimes, the patch appears as a raised bump or nodule on the skin."
+162,akiec,"It's like my skin is trying to warn me that something's wrong, but I'm not sure what to make of it."
+163,akiec,"Occasionally, the patch develops a white, scaly coating that's difficult to remove."
+164,akiec,"Along with the redness, I've noticed some hair loss in the affected area."
+165,akiec,"Sometimes, the patch feels warmer than the rest of my skin, like there's a fire burning underneath."
+166,akiec,"It's like my skin is suffocating in that area, becoming tight and stretched."
+167,akiec,"Occasionally, the patch feels rough and textured, almost like sandpaper."
+168,akiec,"Along with the red patch, I've noticed some swelling and inflammation in that area."
+169,akiec,"Sometimes, the patch feels smoother in the center but rougher around the edges, like it's spreading outwards."
+170,akiec,"It's like my skin is trying to form a barrier over the affected area, but it just ends up feeling rough and uneven."
+171,akiec,"Occasionally, the patch develops small, pus-filled blisters that burst and crust over."
+172,akiec,"Along with the redness, I've noticed some thickening and hardening of the skin in that area."
+173,akiec,"Sometimes, the patch feels tender and sensitive to the touch, like a fresh wound."
+174,akiec,"It's like my skin is aging prematurely in that area, developing wrinkles and creases."
+175,akiec,"Occasionally, the patch feels colder than the surrounding skin, like it's lost its blood supply."
+176,akiec,"Along with the red patch, I've noticed some discoloration and irregular pigmentation in the affected area."
+177,akiec,"Sometimes, the patch feels smoother and softer than the surrounding skin, almost like a scar."
+178,akiec,"It's like my skin is trying to protect me from something, but it just ends up causing more problems."
+179,akiec,"Occasionally, the patch develops a foul smell, especially if it's been irritated or infected."
+180,Basal cell carcinoma,"The affected area appears as a flat, brown spot on the skin, often referred to as a sunspot or age spot."
+181,Basal cell carcinoma,"Sometimes, it feels like there's a small, raised bump that's been embedded in the skin."
+182,Basal cell carcinoma,"Occasionally, the lesion develops a darker pigmentation compared to the surrounding skin."
+183,Basal cell carcinoma,"Along with the spot, I've noticed some irregular borders that seem to blend into the surrounding skin."
+184,Basal cell carcinoma,"Along with the spot, I've noticed some surrounding skin discoloration, like brown or black spots."
+185,Basal cell carcinoma,"Along with the spot, I've noticed some dryness and flakiness in the affected area."
+186,Basal cell carcinoma,"Sometimes, the lesion feels warmer than the rest of my skin."
+187,Basal cell carcinoma,"Along with the spot, I've noticed some loss of sensation in the affected area."
+188,Basal cell carcinoma,"Sometimes, the lesion feels softer and smoother than the surrounding skin"
+189,Basal cell carcinoma,"The affected area appears as a freckle-like spot on the skin, often varying in shades of brown."
+190,Basal cell carcinoma,"Along with the spot, I've noticed some subtle variations in color and texture."
+191,Basal cell carcinoma,"Occasionally, the spot develops a mottled appearance, with patches of darker and lighter pigmentation."
+192,Basal cell carcinoma,"These flat, brown spots just appeared on my arms."
+193,Basal cell carcinoma,My face has a couple of glued-on bumps that aren't painful.
+194,Basal cell carcinoma,I keep catching my finger on these scaly patches on my chest.
+195,Basal cell carcinoma,Waxy-looking bumps appeared on my shoulders seemingly overnight.
+196,Basal cell carcinoma,There are a few places on my legs where my skin feels like lizard scales.
+197,Basal cell carcinoma,I have brown spots on my face that look like sun damage I don't have.
+198,Basal cell carcinoma,"These growths on my back feel like warts, but aren't itchy or painful."
+199,Basal cell carcinoma,My arms have a couple of spots that look like brown sugar sprinkled on my skin.
+200,Basal cell carcinoma,"There are rough, brown patches on my neck that tempt me to scratch."
+201,Basal cell carcinoma,"Stubborn, scaly patches appeared on my scalp like dandruff on steroids."
+202,Basal cell carcinoma,"My forehead has a couple of greasy, waxy growths."
+203,Basal cell carcinoma,Some places on my arms look permanently sunburned.
+204,Basal cell carcinoma,"I've noticed these rough patches on my skin, kind of like sandpaper but not quite as rough."
+205,Basal cell carcinoma,"There are these flat, brown spots that have popped up on my arms lately."
+206,Basal cell carcinoma,"I have slightly raised, scaly patches on my chest."
+207,Basal cell carcinoma,These waxy-looking bumps appeared on my shoulders seemingly overnight.
+208,Basal cell carcinoma,I have a couple of spots on my hands that look like little stuck-on pebbles that are hard and don't budge when I press on them.
+209,Basal cell carcinoma,There are a few places on my legs where my skin feels a bit thicker and rougher than usual almost scaly.
+210,Basal cell carcinoma,"I've got these brown, flat patches on my face that look like I've been spending way too much time in the sun (which I haven't!)."
+211,Basal cell carcinoma,"These growths on my back feel kind of like warts, but they're not itchy or painful, just a bit weird."
+212,Basal cell carcinoma,These scaly patches on my scalp look like dandruff
+213,Basal cell carcinoma,I have a couple of growths on my forehead that feel kind of greasy and waxy yet not oozing or anything.
+214,Basal cell carcinoma,These brown spots on my face look like little freckles but bigger and darker than regular freckles.
+215,Basal cell carcinoma,"There's a rough patch on my shin that feels like a callus, but it's not from rubbing against anything."
+216,Basal cell carcinoma,"These growths on my chest look like little skin tags, but they're flatter and broader."
+217,Basal cell carcinoma,"There are a few places on my legs where my skin feels like sandpaper, but it's not dry or irritated, just rougher than usual."
+218,Basal cell carcinoma,"These brown, scaly patches on my face look like age spots on overdrive but bigger and more noticeable."
+219,Basal cell carcinoma,"I've got a couple of growths on my back that look like tiny volcanoes, raised and have a rough, bumpy surface."
+220,Basal cell carcinoma,"There are a few places on my legs where my skin looks like a lizard's scales, especially after I've been in the shower."
+221,Basal cell carcinoma,These brown spots on my face look like I've been getting fake tans that went a little wrong. They're patchy and uneven.
+222,Basal cell carcinoma,"There's a rough patch on my shin that feels like a scab that never fully healed, but it's slightly raised and has a different texture than the rest of my skin."
+223,dermatofibroma,"I noticed a small, firm, red or brown bump on my skin that feels like a button sewn underneath."
+224,dermatofibroma,"There's a hard, painless lump on my arm that doesn't move when I press on it."
+225,dermatofibroma,"I have a tiny, raised bump on my leg that's smooth and feels kind of waxy."
+226,dermatofibroma,"This small, firm growth on my stomach seems to be growing slowly over time."
+227,dermatofibroma,"There's a single, pink or red bump on my finger that's a bit tender if I press hard."
+228,dermatofibroma,"I found a small, dome-shaped bump on my face that's a bit darker than my skin tone."
+229,dermatofibroma,"This hard, pea-sized lump on my back doesn't itch, but it feels a bit sore sometimes."
+230,dermatofibroma,"There's a tiny, smooth bump on my ankle that's barely noticeable visually."
+231,dermatofibroma,"I have a small, firm nodule on my chest that's slightly indented in the center."
+232,dermatofibroma,"This hard, painless bump on my shin seems to be stuck under the surface of my skin."
+233,dermatofibroma,"There's a small, brown growth on my shoulder that looks like a mole, but it's harder."
+234,dermatofibroma,"I found a tiny, pink bump on my neck that's grown a little bigger in the past few months."
+235,dermatofibroma,"This firm, painless lump on my forearm doesn't cause any problems, but it's concerning."
+236,dermatofibroma,"There's a small, smooth bump on my calf that's a slightly different color than my skin."
+237,dermatofibroma,"I have a tiny, firm nodule on my forehead that's barely raised above the surface."
+238,dermatofibroma,"I discovered a tiny bump on my skin, almost like a hidden pebble under the surface."
+239,dermatofibroma,"My arm has a small, firm nodule that feels like a little button I can't push through."
+240,dermatofibroma,"There's a smooth, raised bump on my leg that feels waxy to the touch."
+241,dermatofibroma,"This growth on my stomach feels strangely solid, like a tiny knot under the skin."
+242,dermatofibroma,"I have a tender bump on my finger, almost like a miniature bruise that won't go away."
+243,dermatofibroma,"My face has a small, dome-shaped growth that's a bit darker than my usual skin tone."
+244,dermatofibroma,This pea-sized lump on my back feels a bit like a firm bead under the skin.
+245,dermatofibroma,"There's a tiny, smooth bump on my ankle that I can barely feel, but can see in the light."
+246,dermatofibroma,"I have a small, firm nodule on my chest that seems to have a slight indentation in the middle."
+247,dermatofibroma,This hard bump on my shin feels like it's trapped just beneath the surface of the skin.
+248,dermatofibroma,"There's a small, brown growth on my shoulder that looks like a mole, but feels much firmer."
+249,dermatofibroma,"I discovered a tiny, pink bump on my neck that seems to be slowly growing larger."
+250,dermatofibroma,"This firm, painless lump on my forearm doesn't bother me, but its presence worries me."
+251,dermatofibroma,"There's a small, smooth bump on my calf that has a slightly different shade than the rest of my skin."
+252,dermatofibroma,"I have a tiny, firm nodule on my forehead that's barely noticeable, but feels a bit raised."
+253,dermatofibroma,I have a little bump on my skin that feels like a seed lodged under the surface.
+254,dermatofibroma,"My arm has a small, firm nodule that's like a permanent goosebump I can't rub away."
+255,dermatofibroma,"There's a smooth, raised bump on my leg that's almost like a tiny, painless pimple that never goes away."
+256,dermatofibroma,"This growth on my stomach feels oddly dense, like a small marble hidden under the skin."
+257,dermatofibroma,"I have a sore bump on my finger, like a constant dull ache from a bump I never remember getting."
+258,dermatofibroma,"My face has a small, raised growth that's a bit darker than my skin, almost like a coffee stain."
+259,dermatofibroma,This pea-sized lump on my back feels a bit like a firm knot under the skin.
+260,dermatofibroma,"There's a tiny bump on my ankle that I can just barely see, like a speck that won't wash off."
+261,dermatofibroma,"I have a small, firm nodule on my chest that feels a bit like a tiny pebble stuck under the skin."
+262,dermatofibroma,"This hard bump on my shin is like a little shadow under the surface, not quite breaking through."
+263,melanoma,"A mole on my back has darkened significantly, almost black or a deep brown unlike my other moles."
+264,melanoma,"There's a spot on my chest that has multiple colors in it, like a mix of brown, black, and even red in some areas."
+265,melanoma,"This mole on my face has changed color recently, going from a light brown to a reddish hue."
+266,melanoma,"A mole on my leg seems to be growing larger, getting bigger than the size of a pencil eraser."
+267,melanoma,There's a spot on my shoulder that's wider than 6 millimeters.
+268,melanoma,This mole on my arm has noticeably grown over the past few months.
+269,melanoma,"A mole on my stomach has changed its appearance, becoming raised and uneven compared to before."
+270,melanoma,There's a spot on my neck that's become itchy and tender recently.
+271,melanoma,This mole on my face seems to be bleeding occasionally.
+272,melanoma,"I discovered a new mole that looks different from my others, with an irregular shape and dark color."
+273,melanoma,"There's a spot on my leg that wasn't there before, raised and dark brown."
+274,melanoma,This mole on my arm appeared suddenly and seems to be growing quickly.
+275,melanoma,"A mole on my back feels different lately, becoming thicker and more raised than usual."
+276,melanoma,There's a spot on my chest that's surrounded by a halo of lighter or darker skin.
+277,melanoma,"This mole on my face seems to have a smooth, shiny surface unlike my other moles."
+278,melanoma,A mole on my leg bleeds easily when I accidentally bump it.
+279,melanoma,There's a spot on my shoulder that feels like two or more moles growing together.
+280,melanoma,I noticed a mole that's become oddly shaped and jagged.
+281,melanoma,There's a mole on my arm with uneven borders.
+282,melanoma,"This spot on my leg has an irregular border, kind of like a splash of ink."
+283,melanoma,"A mole on my arm seems to have a mismatch of colors within it, like a swirl of brown, black, and even blue."
+284,melanoma,There's a spot on my chest that feels slightly numb or has a tingling sensation compared to the surrounding skin.
+285,melanoma,"This mole on my face appears to be growing outwards in a bumpy, uneven way."
+286,melanoma,"A mole on my leg has become quite itchy lately, especially at night, disrupting my sleep."
+287,melanoma,There's a spot on my shoulder that seems to be leaking a clear or bloody fluid occasionally.
+288,melanoma,"A mole on my back appears to have tiny blood vessels visible on its surface, which wasn't there before."
+289,melanoma,"There's a spot on my chest that seems to be surrounded by a red, inflamed halo that's expanding."
+290,melanoma,This mole on my face feels quite brittle and seems to crumble slightly when I touch it.
+291,melanoma,"A mole on my leg appears to be changing texture, becoming smoother and more polished-looking."
+292,melanoma,"There's a spot on my shoulder that seems to be developing a foul odor, unlike any other mole I have."
+293,melanoma,"A mole on my back appears to be growing vertically, becoming more raised and protruding from the skin."
+294,melanoma,"There's a spot on my chest that seems to be mimicking another mole nearby, with similar irregular borders."
+295,melanoma,"This mole on my face appears to be losing some of its surrounding pigmentation, creating a light halo around it."
+296,melanoma,"A mole on my leg seems to be growing at an alarmingly fast pace, noticeable week to week."
+297,melanoma,"There's a spot on my shoulder that feels quite sensitive to sunlight, causing discomfort when exposed."
+298,melanoma,A mole on my arm seems to have developed a visible indentation or a small pit in the center.
+299,melanoma,There's a spot on my chest that feels slightly raised and appears to have a network of tiny red lines around it.
+300,melanoma,"This mole on my face seems to be growing at an uneven rate, with one side expanding faster than the other."
+301,melanoma,"A mole on my leg bleeds easily even with minor friction, like brushing against clothing."
+302,melanoma,There's a spot on my shoulder that feels oddly warm to the touch compared to the surrounding skin.
+303,melanoma,"A mole on my back appears to be losing its previous definition, blurring into the surrounding skin."
+304,melanoma,"There's a spot on my chest that seems to be constantly attracting scabbing or crusting, even after healing."
+305,melanoma,This mole on my face appears to be growing hair that's a different color or texture than the hair on my head.
+306,melanoma,"A mole on my leg feels quite painful when I press on it, even with light pressure."
+307,melanoma,"There's a spot on my shoulder that seems to be pulsating slightly, a faint throbbing sensation I haven't noticed before."
+308,melanoma,"A mole on my arm seems to have developed a faint horizontal line running through it, like a split down the middle."
+309,melanoma,"There's a spot on my chest that feels unusually dry and flaky, unlike the surrounding skin texture."
+310,melanoma,"This mole on my face appears to be growing beneath the surface of the skin, becoming more prominent without increasing in size on top."
+311,melanoma,"A mole on my leg seems to be surrounded by a faint network of raised bumps, almost like a tiny mountain range."
+312,melanoma,There's a spot on my shoulder that feels strangely numb or has a decreased ability to feel touch.
+313,melanoma,"A mole on my back appears to be losing its elasticity, feeling taut and inflexible when I pinch the surrounding skin."
+314,melanoma,There's a spot on my chest that seems to be developing a slightly glossy or greasy sheen on its surface.
+315,melanoma,"This mole on my face appears to be growing inwards, creating a small crater or indentation in the center."
+316,melanoma,"A mole on my leg seems to be attracting unusual pigmentation around it, with a faint halo of a different color."
+317,melanoma,There's a spot on my shoulder that bleeds easily even after minor scratching or irritation.
+318,melanoma,"A mole on my arm seems to be growing at an angle, tilting or leaning in a specific direction."
+319,melanoma,"There's a spot on my chest that feels slightly itchy and irritated, but scratching doesn't provide relief."
+320,melanoma,"This mole on my face appears to be mimicking another mole nearby, with a similar unusual shape or color."
+321,melanoma,A mole on my leg seems to be accompanied by a persistent feeling of tightness or pulling in the surrounding skin.
+322,melanoma,"There's a spot on my shoulder that appears to be growing in patches, with uneven pigmentation or color distribution."
+323,melanoma,"There's a spot on my arm that feels strangely spongy or soft to the touch, unlike the firmness of my other moles."
+324,melanoma,"A mole on my chest appears to be developing a network of fine, red lines radiating outwards from the center."
+325,melanoma,"This mole on my face seems to be growing at an alarmingly fast pace, noticeable within a few weeks."
+326,melanoma,"A mole on my leg bleeds easily even with the slightest bump, leaving behind a small crust that won't heal properly."
+327,melanoma,"There's a spot on my shoulder that feels oddly hot to the touch, even in cool environments."
+328,melanoma,"A mole on my back appears to be changing texture, becoming smoother and almost shiny on the surface."
+329,melanoma,"There's a spot on my chest that seems to be constantly attracting dirt or debris, sticking to the mole more than surrounding skin."
+330,melanoma,"This mole on my face appears to be losing some of its pigment, creating a lighter halo around the darker center."
+331,melanoma,"A mole on my leg feels quite painful when I press on it, even with the lightest touch."
+332,melanoma,"There's a spot on my shoulder that seems to be developing a faint, unpleasant odor I haven't noticed before."
+333,melanocytic nevi (nv),"I noticed a small, flat brown spot on my arm that's smooth and even in color, like a freckle but slightly larger."
+334,melanocytic nevi (nv),"There's a tiny, slightly raised bump on my chest that's light brown and feels smooth to the touch."
+335,melanocytic nevi (nv),"This spot on my face has a round or oval shape with a well-defined border, and it's the same color as my skin."
+336,melanocytic nevi (nv),"A mole on my leg has been there for years and hasn't changed in size, shape, or color."
+337,melanocytic nevi (nv),"There's a small cluster of tiny, brown spots on my shoulder that are all similar in size and appearance."
+338,melanocytic nevi (nv),"A mole on my back feels firm and smooth, with a consistent brown color throughout."
+339,melanocytic nevi (nv),There's a spot on my chest that's slightly raised and has a small hair growing out of it.
+340,melanocytic nevi (nv),"This mole on my face is a uniform light brown color with a clear, defined border."
+341,melanocytic nevi (nv),A mole on my leg has been present since childhood and hasn't shown any signs of change.
+342,melanocytic nevi (nv),"There's a spot on my shoulder that's small, flat, and blends in almost seamlessly with my surrounding skin tone."
+343,melanocytic nevi (nv),"I discovered a small, flat mole on my arm that's a light brown color and has a slightly rough texture compared to the surrounding skin."
+344,melanocytic nevi (nv),"There's a tiny, dome-shaped mole on my chest that's a uniform tan color and feels smooth to the touch."
+345,melanocytic nevi (nv),"This spot on my face has a slightly raised, round shape with a well-defined border, and it's a shade darker than my natural skin tone."
+346,melanocytic nevi (nv),"A mole on my leg has been present for years and hasn't changed, remaining consistent in size, shape, and a light brown color."
+347,melanocytic nevi (nv),"There's a small cluster of tiny, brown spots on my shoulder that are all similar in size and appearance, with a smooth texture."
+348,melanocytic nevi (nv),"A mole on my back feels firm and smooth, with a consistent brown color throughout and a well-defined edge."
+349,melanocytic nevi (nv),"There's a spot on my chest that's slightly raised and has a small, fine hair growing out of the center."
+350,melanocytic nevi (nv),"This mole on my face is a uniform dark brown color with a clear, defined border and a flat surface."
+351,melanocytic nevi (nv),"A mole on my leg has been stable since childhood, remaining the same size, shape, and color for many years."
+352,melanocytic nevi (nv),"There's a spot on my shoulder that's a small, flat mole with a slightly pink hue, blending in almost seamlessly with my surrounding skin tone."
+353,melanocytic nevi (nv),"I have a tiny, flat mole on my arm that's a light brown color with a smooth surface and a well-defined edge."
+354,melanocytic nevi (nv),"There's a small, raised bump on my chest that's a shade darker than my skin tone but still falls within the range of typical mole colors."
+355,melanocytic nevi (nv),"This spot on my face has a slightly oval shape with a smooth, even border and a consistent brown color."
+356,melanocytic nevi (nv),"A mole on my leg has been there for a while and hasn't shown any recent changes, remaining the same size and color."
+357,melanocytic nevi (nv),"There's a small cluster of tiny, brown moles on my shoulder that are all flat and smooth to the touch, with a uniform appearance."
+358,melanocytic nevi (nv),"A mole on my back feels firm and smooth, with a consistent light brown color throughout."
+359,melanocytic nevi (nv),"There's a spot on my chest that's slightly raised and has a fine, light-colored hair growing out of it."
+360,melanocytic nevi (nv),"This mole on my face is a uniform brown color with a clear, defined border, neither raised nor flat."
+361,melanocytic nevi (nv),"A mole on my leg has been stable for years, maintaining the same size and color without any noticeable changes."
+362,melanocytic nevi (nv),"There's a spot on my shoulder that's a small, flat mole with a slightly lighter brown color compared to my skin tone."
+363,melanocytic nevi (nv),"I discovered a tiny, flat mole on my arm that's a light brown color and has a smooth texture."
+364,melanocytic nevi (nv),"There's a small, raised bump on my chest that's a shade darker than my skin but still considered a typical mole color."
+365,melanocytic nevi (nv),"This spot on my face has a slightly raised, round shape with a well-defined border and a consistent brown color."
+366,melanocytic nevi (nv),"A mole on my leg has been there for a while and shows no signs of change, remaining the same size and color."
+367,melanocytic nevi (nv),"There's a small cluster of tiny, brown moles on my shoulder that are all flat and smooth to the touch, with a uniform appearance."
+368,melanocytic nevi (nv),"I noticed a small, flat mole on my arm that's a light brown color and has a few freckles scattered around it, all similar in size and appearance."
+369,melanocytic nevi (nv),"There's a tiny, slightly raised bump on my chest that's a shade lighter than my skin tone and feels smooth to the touch."
+370,melanocytic nevi (nv),"This spot on my face has a slightly irregular border, but the overall shape is round and the color is a consistent brown."
+371,melanocytic nevi (nv),"A mole on my leg has been present for a few years and has grown very slowly, maintaining a uniform light brown color and smooth texture."
+372,melanocytic nevi (nv),"There's a single, flat mole on my shoulder that's a dark brown color but smaller than the width of a pencil eraser."
+373,melanocytic nevi (nv),"A mole on my back feels slightly softer than the surrounding skin, but it has a consistent brown color and a well-defined edge."
+374,melanocytic nevi (nv),"There's a spot on my chest that's slightly raised and has a small indentation in the center, but it remains the same color as my skin."
+375,melanocytic nevi (nv),This mole on my face is a uniform tan color with a slightly raised surface and a few tiny hairs growing out of it.
+376,melanocytic nevi (nv),"A mole on my leg has been stable for decades, showing no changes in size, shape, or color throughout the years."
+377,melanocytic nevi (nv),"There's a spot on my shoulder that's a small cluster of two or three tiny, flat moles, all very close together and a light brown color."
+378,Vascular lesions: Angioma,"A raised, bright red spot appeared on my arm recently. It feels slightly bumpy and bleeds easily if I accidentally scratch it."
+379,Vascular lesions: Angioma,"A bright red, spiderweb-like pattern of tiny lines appeared on my shoulder. It doesn't itch or hurt, but it's quite noticeable. "
+380,Vascular lesions: Angioma,"A slightly raised, red bump appeared on my leg recently. It feels spongy and bleeds a little when I bump it against something. "
+381,Vascular lesions: Angioma,"I noticed a cluster of tiny, red bumps on my arm that seem to be spreading outwards. They're all very close together and haven't changed color. "
+382,Vascular lesions: Angioma,"A slightly raised, red, circular patch appeared on my leg recently. It has a faint, yellow ring around the outside border. "
+383,Vascular lesions: Angioma,"A slightly raised, purplish-red patch appeared on my arm. It's smooth to the touch and doesn't cause any discomfort. "
+384,Vascular lesions: Angioma,"A network of tiny, slightly raised, red lines appeared on my shoulder in a web-like pattern. It doesn't itch or hurt, but it's quite noticeable."
+385,Vascular lesions: Angioma,"A dime-sized, bright red, slightly raised patch developed on my back. It feels smooth to the touch and doesn't itch. "
+386,Vascular lesions: Angioma,"There's a cluster of tiny, bright red bumps on my shoulder that seem to be grouped together in a small circle. "
+387,Vascular lesions: Angioma,"A slightly raised, red patch with a network of fine, red lines radiating outwards appeared on my back. It's barely noticeable but feels a bit itchy. "
+388,Vascular lesions: Angioma,"A slightly raised, red, oval-shaped patch appeared on my leg recently. It has a faint, slightly yellow tinge in the center. "
+389,Vascular lesions: Angioma,"A small, bright red spot appeared on the white part of my eye. It doesn't cause any vision problems, but it's quite noticeable and slightly concerning. "
+390,Vascular lesions: Angioma,"A slightly raised, red patch on my back seems to be changing color, becoming a darker reddish-purple over the past few weeks."
+391,Vascular lesions: Angioma,"A small, slightly raised, red patch on my shoulder has developed a small, white crust on the surface in the past few days. "
+392,Vascular lesions: Angioma,"A slightly raised, bright red patch appeared on my shin and feels quite tender, especially when I walk or put pressure on it. "
+393,Vascular lesions: Angioma,"A network of tiny, slightly raised, red lines appeared on the palm of my hand, causing a burning sensation and making it difficult to grip objects comfortably. "
+394,Vascular Lesions: Angiokeratoma,"There's a small, flat, purple patch on my chest that seems to be made up of tiny, clustered red dots. "
+395,Vascular Lesions: Angiokeratoma,"A rough, red patch developed on my back. It feels like sandpaper and is quite itchy, especially at night. "
+396,Vascular Lesions: Angiokeratoma,"There's a small, rough, red patch on my shoulder that feels slightly scaly and tends to crust over occasionally. "
+397,Vascular Lesions: Angiokeratoma,"A raised, red patch with a small, white pustule in the center appeared on my back. It's quite tender and occasionally oozes a small amount of pus. "
+398,Vascular Lesions: Angiokeratoma,"There's a small, cluster of red bumps on my shoulder that seem to be arranged in a linear pattern, almost like a tiny line of beads. "
+399,Vascular Lesions: Angiokeratoma,"There's a small, flat, red-brown patch on my chest that seems to be made up of tiny, clustered red and brown dots. "
+400,Vascular Lesions: Angiokeratoma,"There's a small, oval-shaped, red patch on my chest that's slightly raised and feels a bit rough when I rub against it. "
+401,Vascular Lesions: Angiokeratoma,"There's a small cluster of red bumps on my shoulder that seem to be arranged in a cluster, with one bump slightly larger and darker red than the others. "
+402,Vascular Lesions: Angiokeratoma,"There's a slightly raised, red patch on the inside of my mouth near my cheek. It feels rough and sometimes catches on my teeth when I eat. "
+403,Vascular Lesions: Angiokeratoma,"There's a small, flat, red patch on my chest that seems to be growing fainter and less noticeable in recent days. "
+404,Vascular Lesions: Angiokeratoma,"There's a small, cluster of red bumps on my chest that bleed easily, even with the slightest scratch or bump. "
+405,Vascular lesions: Pyogenic Granuloma,"This red, wart-like bump on my face developed quickly and bleeds occasionally, especially when washing my face. "
+406,Vascular lesions: Pyogenic Granuloma,"There's a small, fleshy bump on my chest that's a deep red color and feels quite tender when I press on it. "
+407,Vascular lesions: Pyogenic Granuloma,"A bright red, raised spot developed on the palm of my hand. It's quite noticeable and makes it difficult to grip things comfortably."
+408,Vascular lesions: Pyogenic Granuloma,"There's a small, red, raised bump on the tip of my finger that bleeds easily if I accidentally bump it while cooking. "
+409,Vascular lesions: Pyogenic Granuloma,"There's a small, red bump on my chest that has a tiny, black pinpoint in the center. It doesn't itch or hurt, but it looks unusual. "
+410,Vascular lesions: Pyogenic Granuloma,"This dark red, almost bluish bump on my face developed quickly and bleeds occasionally, especially when washing my face. "
+411,Vascular lesions: Pyogenic Granuloma,"There's a small, red bump on my chest that has a small, clear fluid-filled blister on the top. It doesn't itch or hurt, but it looks unusual."
+412,Vascular lesions: Pyogenic Granuloma,"This red, wart-like bump developed on the edge of my lip and bleeds occasionally, especially when I accidentally bite it. "
+413,Vascular lesions: Pyogenic Granuloma,"This red, wart-like bump on my face appears to be shrinking slightly and drying out at the top. "
+414,Vascular lesions: Pyogenic Granuloma,"This red, wart-like bump on my face is quite painful and bleeds frequently, even without any irritation. "
+415,Vascular lesions: Hemorrhage,"I noticed a small, flat, red circle on my leg that's slightly raised and feels a bit bruised to the touch. "
+416,Vascular lesions: Hemorrhage,"This slightly raised, red area on my face feels warm to the touch and is a bit sore, especially after shaving. "
+417,Vascular lesions: Hemorrhage,"This red, flat patch on my neck seems to be slowly growing larger. It started small and has gradually increased in size over the past few months. "
+418,Vascular lesions: Hemorrhage,"This flat, red mark on my leg appeared after I bumped into something hard. It's slowly fading away but still slightly noticeable. "
+419,Vascular lesions: Hemorrhage,"This slightly raised, red area on my face has a slightly rough, cobblestone-like texture. It doesn't bleed but feels a bit uncomfortable when touched. "
+420,Vascular lesions: Hemorrhage,"I noticed a small, flat, dark red spot on my leg that's slightly raised and feels a bit bruised to the touch. "
+421,Vascular lesions: Hemorrhage,"This slightly raised, red, bean-shaped area on my face feels warm to the touch and is a bit sore, especially after shaving. "
+422,Vascular lesions: Hemorrhage,"A small, flat, red mark in the shape of a crescent moon appeared on my leg after I bumped into a sharp corner. "
+423,Vascular lesions: Hemorrhage,"This slightly raised, red area on my face has a slightly bumpy, almost cobblestone-like texture with a single, coarse hair growing out of it. "
+424,Vascular lesions: Hemorrhage,"I noticed a small, flat, red mark on the underside of my arm that feels a bit tender when I press on it. "
+425,Vascular lesions: Hemorrhage,"I noticed a small, flat, red mark on my leg that seems to be pulsating slightly, especially when I'm lying down. "
+426,Vascular lesions: Hemorrhage,"I noticed a small, flat, red mark on my leg that bleeds a small amount of bright red blood when I accidentally scratch it. "
