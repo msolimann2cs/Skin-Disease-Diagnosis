@@ -67,6 +67,8 @@ We utilized the mobilenet architecture to create both our models. Trained on the
 
  -  'skin_condition':  This folder includes the codes for training the skin condition model and for batch predicting images.
 
+ -  'chatbot':  This folder includes the code the chatbot module.
+
  -  'augmantation.py': General purpose code for augmanting images to add in our datasets. 
 
 <br>
