@@ -71,6 +71,23 @@ We utilized the mobilenet architecture to create both our models. Trained on the
 
 <br>
 
+##     <p align = "left"> 📂 All datasets used links </p>
+https://www.kaggle.com/datasets/artakusuma/basedir/data
+https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic
+https://www.kaggle.com/datasets/mohamedadel452/ham10000-oversampled-128-128
+https://www.kaggle.com/datasets/nayanchaure/acne-dataset/data
+https://www.kaggle.com/code/banddaniel/acne-detection-w-kerascv-yolo-v8#-Test--Predictions
+https://www.kaggle.com/code/bryamblasrimac/classification-dermatology-vit-accuracy-78-60/notebook
+https://www.kaggle.com/datasets/trainingdatapro/skin-defects-acne-redness-and-bags-under-the-eyes
+https://www.kaggle.com/code/osmankagankurnaz/acne-detection-with-yolov8/notebook
+https://www.kaggle.com/code/xtvgie/acne-detection/notebook
+https://www.kaggle.com/code/stpeteishii/acne-yolo-annotation-view/notebook
+
+<br>
+
+We are still in the process of uploading the our final manually made skin cancer dataset to the repo (41k images)
+
 ### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
 
 ---
