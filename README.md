@@ -35,7 +35,7 @@ The dataset for the skin cancer portion of the project consists of a total of 41
 
 <br>
 
-The dataset for the skin condition portion of the project consists of a total of These images represent 3 types of skin condition classes and 1 normal skin class, gathered from public dermatologist datasets and self-collected sources.
+The dataset for the skin condition portion of the project consists of a total of 5,000 images. These images represent 3 types of skin condition classes and 1 normal skin class, gathered from public dermatologist datasets and self-collected sources.
 
 ## <p align = "left"> 🗎 Classes  </p>
 Skin Disease Classes
@@ -65,7 +65,7 @@ We utilized the mobilenet architecture to create both our models. Trained on the
 
  -  'augmentation.py': Code for adding augmented images to our dataset for classes with a lack of images.
 
- -  'model.py': The code we used to build our Xception model for skin lesion diagnosis.
+ -  'model.py': The code we used to build our mobilenet model for skin lesion diagnosis.
 
  -  'predict.py': Code for prediction a batch of images from a directory, using our model. 
 
