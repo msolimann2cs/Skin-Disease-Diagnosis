@@ -63,11 +63,11 @@ We utilized the mobilenet architecture to create both our models. Trained on the
 
 ##     <p align = "left"> 📂 Repository Structure </p>
 
- -  'augmentation.py': Code for adding augmented images to our dataset for classes with a lack of images.
+ -  'skin_cancer': This folder includes the codes for training the skin cancer model and for batch predicting images.
 
- -  'model.py': The code we used to build our mobilenet model for skin lesion diagnosis.
+ -  'skin_condition':  This folder includes the codes for training the skin condition model and for batch predicting images.
 
- -  'predict.py': Code for prediction a batch of images from a directory, using our model. 
+ -  'augmantation.py': General purpose code for augmanting images to add in our datasets. 
 
 <br>
 
