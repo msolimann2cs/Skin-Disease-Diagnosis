@@ -16,7 +16,6 @@
 
 <br>
            
-###     <p align = "center"> You can access the web version at https://ae-gdy.github.io/ </p>
 
 <br>
 
